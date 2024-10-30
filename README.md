@@ -12,4 +12,4 @@
 * CSS
 
 ## Link:
-https://joao-carmassi.github.io/Monibank-main/
+https://joao-carmassi.github.io/monibank/
